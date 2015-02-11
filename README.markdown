@@ -7,6 +7,7 @@ This guide is based of the [Ray Wenderlich Style Guide](https://github.com/raywe
 * [Naming](#naming)
   * [Class Prefixes](#class-prefixes)
 * [Spacing](#spacing)
+* [SpriteBuilder code connections](#spritebuilder-code-connections)
 * [Comments](#comments)
 * [Classes and Structures](#classes-and-structures)
   * [Use of Self](#use-of-self)
